@@ -1,0 +1,11 @@
+torch
+ccxt
+pandas
+numpy
+scikit-learn
+requests
+ta
+openai
+fastapi
+uvicorn
+python-dotenv

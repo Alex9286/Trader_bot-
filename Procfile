@@ -1,0 +1,1 @@
+web: uvicorn FINAL_PRO_BOT_v3:app --host 0.0.0.0 --port 8000
